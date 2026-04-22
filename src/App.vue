@@ -11,4 +11,6 @@ import HelloWorld from './components/HelloWorld.vue'
 
     <router-view />
   </div>
+  /* Add any global styles here */
 </template>
+
